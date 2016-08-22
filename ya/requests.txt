@@ -1,0 +1,21 @@
+
+
+curl 'https://radio.yandex.ru/api/v2.1/handlers/track/26353101:10216/radio-web-user-270453501-direct/download/m/sy/net/match_r1103.html?__t=1471374568089'  -H 'X-Retpath-Y: https%3A%2F%2Fradio.yandex.ru%2Fuser%2Fdebeet'
+curl 'https://radio.yandex.ru/api/v2.1/handlers/track/10791881:1171710/radio-web-user-270453501-direct/download/m/sy/net/match_r1103.html?__t=1471374568089'  -H 'X-Retpath-Y: https%3A%2F%2Fradio.yandex.ru%2Fuser%2Fdebeet'
+
+
+{"codec":"mp3","bitrate":192,"src":"https://storage.mds.yandex.net/file-download-info/65534_489e6f1a.39155600.1.26353101/2?sign=803c1c96e4e03bc67f43d3f236387d2e034870f5e65c2c588203d122e5834aeb&ts=57b3818a","gain":false}
+
+
+
+curl "https://storage.mds.yandex.net/file-download-info/65534_489e6f1a.39155600.1.26353101/2?sign=803c1c96e4e03bc67f43d3f236387d2e034870f5e65c2c588203d122e5834aeb&ts=57b3818a" 
+
+<?xml version="1.0" encoding="utf-8"?><download-info><host>s62e.storage.yandex.net</host><path>/music/10/1/data-0.18:38576718472:4483865</path><ts>00053a4ad8e9416a</ts><region>-1</region><s>3da711b9d60d00b5cff6d3efe7d860d65d9d0f83ecd440869d659f38db87ce2e</s></download-info>
+
+
+http://emn178.github.io/online-tools/md5.html
+
+XGRlBW9FXlekgbPrRHuSiA
+XGRlBW9FXlekgbPrRHuSiAmusic/10/1/data-0.18:38576718472:44838653da711b9d60d00b5cff6d3efe7d860d65d9d0f83ecd440869d659f38db87ce2e
+
+https://s62e.storage.yandex.net/get-mp3/8e0f49707daa6f7782419bad825ee638/00053a4ad8e9416a/music/10/1/data-0.18:38576718472:4483865
