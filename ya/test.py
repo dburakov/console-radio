@@ -4,6 +4,7 @@ import requests
 import hashlib
 import redis
 import json
+import shutil
 
 
 redis_pool = redis.StrictRedis(host='localhost', port=6379, db=0)
@@ -89,5 +90,35 @@ def get_latest():
             pa = str(track['track']['albums'][0]['id'])
 
 
+def extend_stored_tracks_with_url():
+    for tid in redis_pool.keys('*'):
+        stored = json.loads(redis_pool.get(tid))
+        print stored
+        if 'url' not in stored:
+            url = get_mp3_url(tid)
+            new_value = stored
+            stored['url'] = url
+            redis_pool.set(tid, json.dumps(new_value))
+
+
+def download_tracks():
+    i = 0
+    all_tracks = redis_pool.keys('*')
+    all_count = len(all_tracks)
+    for tid in all_tracks:
+        print 'processing %s/%s' % (i, all_count)
+        i += 1
+        stored = json.loads(redis_pool.get(tid))
+        # print stored
+        if 'url' in stored:
+            response = requests.get(stored['url'], stream=True)
+            with open('downloaded/%s - %s.mp3' % (stored['artist'], stored['name']), 'wb') as out_file:
+                shutil.copyfileobj(response.raw, out_file)
+            del response
+            # return
+
+
 if __name__ == '__main__':
-    get_latest()
+    # get_latest()
+    # extend_stored_tracks_with_url()
+    download_tracks()
