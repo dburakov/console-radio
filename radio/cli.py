@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
-from modules import yamusic, files
+from modules import yandex, files
 
 
 if __name__ == '__main__':
@@ -14,12 +14,12 @@ if __name__ == '__main__':
     current_num = 0
     print 'Preparing %d tracks of category "%s"' % (args.total_num, args.category)
 
-    for track in yamusic.get_tracks_iterator(args.category, args.total_num, args.sid):
+    for track in yandex.get_tracks_iterator(args.category, args.total_num, args.sid):
         current_num += 1
         print 'Found track %d/%d (%s)' % (current_num, args.total_num, files.get_file_name(track))
         local_path = files.get_local_path(args.category, track)
 
         if not files.exists_local(local_path):
             print 'Downloading track...'
-            url = yamusic.get_mp3_url(track['id'])
+            url = yandex.get_mp3_url(track['id'])
             files.download_track(url, local_path)
