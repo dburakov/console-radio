@@ -1,5 +1,5 @@
 # smarthome
 
+    sudo apt-get install vlc
     pip install -r .meta/packages
-
-    python ./test.py
+    python ./cli.py
