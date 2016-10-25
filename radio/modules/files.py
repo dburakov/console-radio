@@ -6,7 +6,7 @@ import requests
 
 
 def get_file_name(track):
-    return '%s - %s.mp3' % (track['artists'][0]['name'], track['title'])
+    return '%s - %s.mp3' % (track['artists'][0]['name'].encode('utf-8'), track['title'].encode('utf-8'))
 
 
 def get_local_path(category, track):
