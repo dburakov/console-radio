@@ -1,0 +1,2328 @@
+#EXTM3U
+#EXTINF:-1, Radio SOFT
+http://shoutcast.byfly.by:88/100fm
+
+#EXTINF:-1, 101 - Анекдот
+http://shoutcast.byfly.by:88/101anekdot
+
+#EXTINF:-1, 101 - Cinema Music
+http://shoutcast.byfly.by:88/101cinema
+
+#EXTINF:-1, 101 - Дискотека 80х
+http://shoutcast.byfly.by:88/101diskoteka
+
+#EXTINF:-1, 101 - Easy Listening
+http://shoutcast.byfly.by:88/101easy
+
+#EXTINF:-1, 101 - Фабрика Звезд
+http://shoutcast.byfly.by:88/101fabrika
+
+#EXTINF:-1, 101 - Mosaique Francaise
+http://shoutcast.byfly.by:88/101france
+
+#EXTINF:-1, 101 - Юмор
+http://shoutcast.byfly.by:88/101humor
+
+#EXTINF:-1, 101 - Italia
+http://shoutcast.byfly.by:88/101italia
+
+#EXTINF:-1, 101 - KFC
+http://shoutcast.byfly.by:88/101kfc
+
+#EXTINF:-1, 101 - Latino
+http://shoutcast.byfly.by:88/101latino
+
+#EXTINF:-1, 101 - Love Songs
+http://shoutcast.byfly.by:88/101love
+
+#EXTINF:-1, 101 - Русский Рэп
+http://shoutcast.byfly.by:88/101rap
+
+#EXTINF:-1, 101 - Rock'n'Roll
+http://shoutcast.byfly.by:88/101rnr
+
+#EXTINF:-1, 101 - Russia 90's
+http://shoutcast.byfly.by:88/101ru90
+
+#EXTINF:-1, 101 - Шансон
+http://shoutcast.byfly.by:88/101shanson
+
+#EXTINF:-1, 101 - Swing
+http://shoutcast.byfly.by:88/101swing
+
+#EXTINF:-1, 101 - Russia Top 50
+http://shoutcast.byfly.by:88/101top50
+
+#EXTINF:-1, 101 - СССР 50-70
+http://shoutcast.byfly.by:88/101ussr
+
+#EXTINF:-1, 101 - Высоцкий
+http://shoutcast.byfly.by:88/101vysotckiy
+
+#EXTINF:-1, Голос Столицы
+http://shoutcast.byfly.by:88/106fm
+
+#EXTINF:-1, STAR 107.9
+http://shoutcast.byfly.by:88/107_9
+
+#EXTINF:-1, 16BIT.FM
+http://shoutcast.byfly.by:88/16bit.fm
+
+#EXTINF:-1, 16BIT.FM CAFE
+http://shoutcast.byfly.by:88/16bit.fm_cafe
+
+#EXTINF:-1, 16BIT.FM CLUB
+http://shoutcast.byfly.by:88/16bit.fm_club
+
+#EXTINF:-1, 16BIT.FM I.D.E.A.
+http://shoutcast.byfly.by:88/16bit.fm_idea
+
+#EXTINF:-1, 16Bit.Fm Back To Mine
+http://shoutcast.byfly.by:88/16bit.fm_mine
+
+#EXTINF:-1, 181.fm - Alternative
+http://shoutcast.byfly.by:88/181alternative
+
+#EXTINF:-1, 181.fm - Beat
+http://shoutcast.byfly.by:88/181beat
+
+#EXTINF:-1, 181.fm - Box
+http://shoutcast.byfly.by:88/181box
+
+#EXTINF:-1, 181.fm - Breeze
+http://shoutcast.byfly.by:88/181breeze
+
+#EXTINF:-1, 181.fm - Chilled
+http://shoutcast.byfly.by:88/181chilled
+
+#EXTINF:-1, 181.FM - Christmas Mix
+http://shoutcast.byfly.by:88/181christmas
+
+#EXTINF:-1, 181.FM - Christmas Smooth Jazz
+http://shoutcast.byfly.by:88/181christmas_smooth
+
+#EXTINF:-1, 181.fm - Classic Rock
+http://shoutcast.byfly.by:88/181classicrock
+
+#EXTINF:-1, 181.FM - Comedy Club (*Explicit Content*)
+http://shoutcast.byfly.by:88/181comedy
+
+#EXTINF:-1, 181.fm - Energy 98
+http://shoutcast.byfly.by:88/181energy
+
+#EXTINF:-1, 181.fm - Heart
+http://shoutcast.byfly.by:88/181heart
+
+#EXTINF:-1, 181.fm - Highway
+http://shoutcast.byfly.by:88/181highway
+
+#EXTINF:-1, 181.fm - Jammin
+http://shoutcast.byfly.by:88/181jammin
+
+#EXTINF:-1, 181.fm - Kickin
+http://shoutcast.byfly.by:88/181kickin
+
+#EXTINF:-1, 181.FM - Lite 80's
+http://shoutcast.byfly.by:88/181lite80
+
+#EXTINF:-1, 181.FM - Lite 90's
+http://shoutcast.byfly.by:88/181lite90
+
+#EXTINF:-1, 181.FM - Mellow Gold
+http://shoutcast.byfly.by:88/181mellow
+
+#EXTINF:-1, 181.fm - Mix Channel
+http://shoutcast.byfly.by:88/181mix
+
+#EXTINF:-1, 181.fm - Office
+http://shoutcast.byfly.by:88/181office
+
+#EXTINF:-1, 181.fm - Good Time Oldies
+http://shoutcast.byfly.by:88/181oldies
+
+#EXTINF:-1, 181.fm - Party
+http://shoutcast.byfly.by:88/181party
+
+#EXTINF:-1, 181.fm - Power
+http://shoutcast.byfly.by:88/181power
+
+#EXTINF:-1, 181.fm - True R&B
+http://shoutcast.byfly.by:88/181rnb
+
+#EXTINF:-1, 181.fm - Rock
+http://shoutcast.byfly.by:88/181rock
+
+#EXTINF:-1, 181.fm - Rock 40
+http://shoutcast.byfly.by:88/181rock40
+
+#EXTINF:-1, 181.FM - Smooth AC
+http://shoutcast.byfly.by:88/181smooth
+
+#EXTINF:-1, 181.fm - UK Top 40
+http://shoutcast.byfly.by:88/181uk40
+
+#EXTINF:-1, 181.FM - 70's
+http://shoutcast.byfly.by:88/181_70
+
+#EXTINF:-1, 181.fm - Awesome 80
+http://shoutcast.byfly.by:88/181_80
+
+#EXTINF:-1, 181.fm - Star 90
+http://shoutcast.byfly.by:88/181_90
+
+#EXTINF:-1, 181.fm - Chloe
+http://shoutcast.byfly.by:88/181_chloe
+
+#EXTINF:-1, 181.fm - Energy 93
+http://shoutcast.byfly.by:88/181_euro
+
+#EXTINF:-1, 181.fm - Classical Guitar
+http://shoutcast.byfly.by:88/181_guitar
+
+#EXTINF:-1, 181.fm - The Point
+http://shoutcast.byfly.by:88/181_point
+
+#EXTINF:-1, 1980s.fm
+http://shoutcast.byfly.by:88/1980s
+
+#EXTINF:-1, 1.FM - 80s Channel
+http://shoutcast.byfly.by:88/1fm_80
+
+#EXTINF:-1, 1.FM - The 90
+http://shoutcast.byfly.by:88/1fm_90
+
+#EXTINF:-1, 1.FM - Adore Jazz
+http://shoutcast.byfly.by:88/1fm_adore
+
+#EXTINF:-1, 1.FM - Afterbeat Electronica
+http://shoutcast.byfly.by:88/1fm_afterbeat
+
+#EXTINF:-1, 1.FM - Channel X
+http://shoutcast.byfly.by:88/1fm_alternative
+
+#EXTINF:-1, 1.FM - Amsterdam Trance
+http://shoutcast.byfly.by:88/1fm_amsterdam
+
+#EXTINF:-1, 1.FM - America's Best Ballads
+http://shoutcast.byfly.by:88/1fm_ballads
+
+#EXTINF:-1, 1.FM - Otto Baroque
+http://shoutcast.byfly.by:88/1fm_baroque
+
+#EXTINF:-1, 1.FM - Blues
+http://shoutcast.byfly.by:88/1fm_blues
+
+#EXTINF:-1, 1.FM - Bombay Beats
+http://shoutcast.byfly.by:88/1fm_bombey
+
+#EXTINF:-1, 1.FM - Chillout
+http://shoutcast.byfly.by:88/1fm_chillout
+
+#EXTINF:-1, 1.FM - The Chillout Lounge
+http://shoutcast.byfly.by:88/1fm_chillout
+
+#EXTINF:-1, 1.FM - Always Christmas
+http://shoutcast.byfly.by:88/1fm_christmas
+
+#EXTINF:-1, 1.FM - Otto
+http://shoutcast.byfly.by:88/1fm_classical
+
+#EXTINF:-1, 1.FM - Club
+http://shoutcast.byfly.by:88/1fm_club
+
+#EXTINF:-1, 1.FM - Country
+http://shoutcast.byfly.by:88/1fm_country
+
+#EXTINF:-1, 1.FM - Dance
+http://shoutcast.byfly.by:88/1fm_dance
+
+#EXTINF:-1, 1.FM - Jamz
+http://shoutcast.byfly.by:88/1fm_jamz
+
+#EXTINF:-1, 1.FM - Smooth Jazz
+http://shoutcast.byfly.by:88/1fm_jazz
+
+#EXTINF:-1, 1.FM - 50s and 60s
+http://shoutcast.byfly.by:88/1fm_oldies
+
+#EXTINF:-1, 1.FM - Otto
+http://shoutcast.byfly.by:88/1fm_opera
+
+#EXTINF:-1, 1.FM - Circuit Pride Radio
+http://shoutcast.byfly.by:88/1fm_pride
+
+#EXTINF:-1, 1.FM - Reggae Trade
+http://shoutcast.byfly.by:88/1fm_reggae
+
+#EXTINF:-1, 1.FM - Top 40
+http://shoutcast.byfly.by:88/1fm_top40
+
+#EXTINF:-1, 1.FM - Trance
+http://shoutcast.byfly.by:88/1fm_trance
+
+#EXTINF:-1, 1.FM - Urban
+http://shoutcast.byfly.by:88/1fm_urban
+
+#EXTINF:-1, 1.FM - High Voltage
+http://shoutcast.byfly.by:88/1fm_voltage
+
+#EXTINF:-1, Первый Музыкальный
+http://shoutcast.byfly.by:88/1muz
+
+#EXTINF:-1, Первый Музыкальный RU
+http://shoutcast.byfly.by:88/1muz_ru
+
+#EXTINF:-1, 2Capitales
+http://shoutcast.byfly.by:88/2capitales
+
+#EXTINF:-1, ЧипльДук радио
+http://shoutcast.byfly.by:88/4duk
+
+#EXTINF:-1, The Beat Generation
+http://shoutcast.byfly.by:88/60s
+
+#EXTINF:-1, Radio MELA
+http://shoutcast.byfly.by:88/80and90
+
+#EXTINF:-1, .977 The Alternative Channel
+http://shoutcast.byfly.by:88/977alt
+
+#EXTINF:-1, .977 The Hitz Channel
+http://shoutcast.byfly.by:88/977hitz
+
+#EXTINF:-1, Absolute 80s
+http://shoutcast.byfly.by:88/absolute80s
+
+#EXTINF:-1, Absolute Classic Rock
+http://shoutcast.byfly.by:88/absoluteclassicrock
+
+#EXTINF:-1, Absolute Radio
+http://shoutcast.byfly.by:88/absoluteradio
+
+#EXTINF:-1, Addict Rock
+http://shoutcast.byfly.by:88/addictradio
+
+#EXTINF:-1, Afera
+http://shoutcast.byfly.by:88/afera
+
+#EXTINF:-1, AH.FM
+http://shoutcast.byfly.by:88/afterhours
+
+#EXTINF:-1, Radio Albatros
+http://shoutcast.byfly.by:88/albatros
+
+#EXTINF:-1, BCN Online
+http://shoutcast.byfly.by:88/allcomedy
+
+#EXTINF:-1, Alouette
+http://shoutcast.byfly.by:88/alouette
+
+#EXTINF:-1, Альфа радио
+http://shoutcast.byfly.by:88/alpharadio
+
+#EXTINF:-1, Альфа радио (256 kpps)
+http://shoutcast.byfly.by:88/alpharadio256
+
+#EXTINF:-1, Ancient Faith Radio
+http://shoutcast.byfly.by:88/ancientfaithradio
+
+#EXTINF:-1, ANTYRADIO
+http://shoutcast.byfly.by:88/antyradio
+
+#EXTINF:-1, Aplus радио
+http://shoutcast.byfly.by:88/aplus
+
+#EXTINF:-1, Aplus радио 256 kbps
+http://shoutcast.byfly.by:88/aplus256
+
+#EXTINF:-1, Aplus Beat
+http://shoutcast.byfly.by:88/aplus_beat
+
+#EXTINF:-1, Aplus Deep
+http://shoutcast.byfly.by:88/aplus_deep
+
+#EXTINF:-1, Aplus Relax
+http://shoutcast.byfly.by:88/aplus_relax
+
+#EXTINF:-1, Aplus Rock
+http://shoutcast.byfly.by:88/aplus_rock
+
+#EXTINF:-1, Arabella Classic Rock
+http://shoutcast.byfly.by:88/arabella
+
+#EXTINF:-1, Аристократы
+http://shoutcast.byfly.by:88/aristocrats
+
+#EXTINF:-1, Авторадио
+http://shoutcast.byfly.by:88/avtoradio
+
+#EXTINF:-1, Авторадио (192 kbps)
+http://shoutcast.byfly.by:88/avtoradio192
+
+#EXTINF:-1, Авторадио Киев
+http://shoutcast.byfly.by:88/avtoradio_kiev
+
+#EXTINF:-1, Радио Балтика
+http://shoutcast.byfly.by:88/baltica
+
+#EXTINF:-1, Bandit Radio
+http://shoutcast.byfly.by:88/banditradio
+
+#EXTINF:-1, Барановичи FM
+http://shoutcast.byfly.by:88/baranovichi
+
+#EXTINF:-1, MR3 - Bart
+http://shoutcast.byfly.by:88/bartok
+
+#EXTINF:-1, Bassdrive
+http://shoutcast.byfly.by:88/bassdrive
+
+#EXTINF:-1, BBC Radio 1
+http://shoutcast.byfly.by:88/bbc1
+
+#EXTINF:-1, BBC Radio 1 Xtra
+http://shoutcast.byfly.by:88/bbc1xtra
+
+#EXTINF:-1, BBC Radio 2
+http://shoutcast.byfly.by:88/bbc2
+
+#EXTINF:-1, BBC Radio 4
+http://shoutcast.byfly.by:88/bbc4
+
+#EXTINF:-1, BBC Radio 5
+http://shoutcast.byfly.by:88/bbc5
+
+#EXTINF:-1, BBC Radio 6 Musik
+http://shoutcast.byfly.by:88/bbc6
+
+#EXTINF:-1, BBC World Service
+http://shoutcast.byfly.by:88/bbcworld
+
+#EXTINF:-1, BBC Russian
+http://shoutcast.byfly.by:88/bbc_russian
+
+#EXTINF:-1, Beats 1
+http://shoutcast.byfly.by:88/beats1
+
+#EXTINF:-1, BEATS`N BREAKS
+http://shoutcast.byfly.by:88/beatsnbreaks
+
+#EXTINF:-1, Рады Беларусь
+http://shoutcast.byfly.by:88/belarus
+
+#EXTINF:-1, Беларусь FM
+http://shoutcast.byfly.by:88/belarusfm
+
+#EXTINF:-1, BEST FM
+http://shoutcast.byfly.by:88/bestfm
+
+#EXTINF:-1, BEST FM Москва
+http://shoutcast.byfly.by:88/bestfm_msk
+
+#EXTINF:-1, Big Beat radio
+http://shoutcast.byfly.by:88/bigbe
+
+#EXTINF:-1, BlackBeats
+http://shoutcast.byfly.by:88/blackbeats
+
+#EXTINF:-1, FM BLUE 105.3
+http://shoutcast.byfly.by:88/bluefm
+
+#EXTINF:-1, Breaks (Record)
+http://shoutcast.byfly.by:88/breaks
+
+#EXTINF:-1, Радио Брест
+http://shoutcast.byfly.by:88/brest
+
+#EXTINF:-1, Business FM
+http://shoutcast.byfly.by:88/businessfm
+
+#EXTINF:-1, Byblos radio
+http://shoutcast.byfly.by:88/byblos
+
+#EXTINF:-1, Кабриолет
+http://shoutcast.byfly.by:88/cabriolet
+
+#EXTINF:-1, Cam FM
+http://shoutcast.byfly.by:88/camfm
+
+#EXTINF:-1, Candlelight Radio
+http://shoutcast.byfly.by:88/candlelight
+
+#EXTINF:-1, Capital 95.8
+http://shoutcast.byfly.by:88/capital
+
+#EXTINF:-1, Radio Caroline 259 Gold
+http://shoutcast.byfly.by:88/carolinegold
+
+#EXTINF:-1, ChilliZET
+http://shoutcast.byfly.by:88/chillizet
+
+#EXTINF:-1, Radio Chillout
+http://shoutcast.byfly.by:88/chillout
+
+#EXTINF:-1, Радио Шоколад
+http://shoutcast.byfly.by:88/chocolad
+
+#EXTINF:-1, Радио Classic
+http://shoutcast.byfly.by:88/classic
+
+#EXTINF:-1, CLASSICAL 102
+http://shoutcast.byfly.by:88/classical102
+
+#EXTINF:-1, Classic Rock Radio
+http://shoutcast.byfly.by:88/classicrock
+
+#EXTINF:-1, .977 The 80s Channel
+http://shoutcast.byfly.by:88/club977
+
+#EXTINF:-1, ClubRadio
+http://shoutcast.byfly.by:88/clubradio
+
+#EXTINF:-1, Comedy Radio
+http://shoutcast.byfly.by:88/comedy
+
+#EXTINF:-1, CoreTime.fm
+http://shoutcast.byfly.by:88/coretime
+
+#EXTINF:-1, COUNTRY 108
+http://shoutcast.byfly.by:88/country108
+
+#EXTINF:-1, Радио Крым
+http://shoutcast.byfly.by:88/crimea
+
+#EXTINF:-1, Радио Культура
+http://shoutcast.byfly.by:88/cultradio
+
+#EXTINF:-1, Cesky rozhlas D-dur
+http://shoutcast.byfly.by:88/d-dur.flac
+
+#EXTINF:-1, Dance.FM
+http://shoutcast.byfly.by:88/dancefm
+
+#EXTINF:-1, Danceradio CZ
+http://shoutcast.byfly.by:88/danceradio
+
+#EXTINF:-1, Deep Mix Moscow Radio
+http://shoutcast.byfly.by:88/deepthemix
+
+#EXTINF:-1, DEFJAY
+http://shoutcast.byfly.by:88/defjay
+
+#EXTINF:-1, Детское радио
+http://shoutcast.byfly.by:88/deti
+
+#EXTINF:-1, Детское радио
+http://shoutcast.byfly.by:88/detskoeradio
+
+#EXTINF:-1, DFM
+http://shoutcast.byfly.by:88/dfm
+
+#EXTINF:-1, DFM (192 kbps)
+http://shoutcast.byfly.by:88/dfm192
+
+#EXTINF:-1, DFM Russian Dance
+http://shoutcast.byfly.by:88/dfm_russian
+
+#EXTINF:-1, DFM Sat
+http://shoutcast.byfly.by:88/dfm_sat
+
+#EXTINF:-1, Di.fm - 00s Club Hits
+http://shoutcast.byfly.by:88/difm_00sclubhits
+
+#EXTINF:-1, Di.fm - Ambient
+http://shoutcast.byfly.by:88/difm_ambient
+
+#EXTINF:-1, Di.fm - Big Room House
+http://shoutcast.byfly.by:88/difm_bigroomhouse
+
+#EXTINF:-1, Di.fm - Breaks
+http://shoutcast.byfly.by:88/difm_breaks
+
+#EXTINF:-1, Di.fm - Chillout
+http://shoutcast.byfly.by:88/difm_chillout
+
+#EXTINF:-1, Di.fm - Chillout Dreams
+http://shoutcast.byfly.by:88/difm_chilloutdreams
+
+#EXTINF:-1, Di.fm - Oldschool Techno & Trance
+http://shoutcast.byfly.by:88/difm_classicelectronica
+
+#EXTINF:-1, Di.fm - Classic Trance
+http://shoutcast.byfly.by:88/difm_classictrance
+
+#EXTINF:-1, Di.fm - Classic Vocal Trance
+http://shoutcast.byfly.by:88/difm_classicvocaltrance
+
+#EXTINF:-1, Di.fm - Club Sounds
+http://shoutcast.byfly.by:88/difm_club
+
+#EXTINF:-1, Di.fm - Club Dubstep
+http://shoutcast.byfly.by:88/difm_clubdub
+
+#EXTINF:-1, Di.fm - DJ Mixes
+http://shoutcast.byfly.by:88/difm_djmixes
+
+#EXTINF:-1, Di.fm - Drum`N`Bass
+http://shoutcast.byfly.by:88/difm_drumandbass
+
+#EXTINF:-1, Di.fm - Dubstep
+http://shoutcast.byfly.by:88/difm_dubstep
+
+#EXTINF:-1, Di.fm - Electro House
+http://shoutcast.byfly.by:88/difm_electrohouse
+
+#EXTINF:-1, Di.fm - Epic Trance
+http://shoutcast.byfly.by:88/difm_epictrance
+
+#EXTINF:-1, Di.fm - Euro Dance
+http://shoutcast.byfly.by:88/difm_eurodance
+
+#EXTINF:-1, Di.fm - Funky House
+http://shoutcast.byfly.by:88/difm_funkyhouse
+
+#EXTINF:-1, Di.fm - Future Garage
+http://shoutcast.byfly.by:88/difm_futuregarage
+
+#EXTINF:-1, Di.fm - Future Synthpop
+http://shoutcast.byfly.by:88/difm_futuresynthpop
+
+#EXTINF:-1, Di.fm - Goa-Psy Trance
+http://shoutcast.byfly.by:88/difm_goa
+
+#EXTINF:-1, Di.fm - Hard Core
+http://shoutcast.byfly.by:88/difm_hardcore
+
+#EXTINF:-1, Di.fm - Hard Dance
+http://shoutcast.byfly.by:88/difm_harddance
+
+#EXTINF:-1, Di.fm - Hard Style
+http://shoutcast.byfly.by:88/difm_hardstyle
+
+#EXTINF:-1, Di.fm - House
+http://shoutcast.byfly.by:88/difm_house
+
+#EXTINF:-1, Di.fm - Indie Beats
+http://shoutcast.byfly.by:88/difm_indiebeats
+
+#EXTINF:-1, Di.fm - Lounge
+http://shoutcast.byfly.by:88/difm_lounge
+
+#EXTINF:-1, Di.fm - Minimal
+http://shoutcast.byfly.by:88/difm_minimal
+
+#EXTINF:-1, Di.fm - Nu Disco
+http://shoutcast.byfly.by:88/difm_nudisco
+
+#EXTINF:-1, Di.fm - Oldschool Acid
+http://shoutcast.byfly.by:88/difm_oldschoolacid
+
+#EXTINF:-1, Di.fm - Progressive
+http://shoutcast.byfly.by:88/difm_progressive
+
+#EXTINF:-1, Di.fm - PsyChill
+http://shoutcast.byfly.by:88/difm_psychill
+
+#EXTINF:-1, Di.fm - Russian Club Hits
+http://shoutcast.byfly.by:88/difm_russianclubhits
+
+#EXTINF:-1, Di.fm - Soulful House
+http://shoutcast.byfly.by:88/difm_soulfulhouse
+
+#EXTINF:-1, Di.fm - Space Dreams
+http://shoutcast.byfly.by:88/difm_space
+
+#EXTINF:-1, Di.fm - Tech House
+http://shoutcast.byfly.by:88/difm_techhouse
+
+#EXTINF:-1, Di.fm - Techno
+http://shoutcast.byfly.by:88/difm_techno
+
+#EXTINF:-1, Di.fm - Trance
+http://shoutcast.byfly.by:88/difm_trance
+
+#EXTINF:-1, Di.fm - Tribal House
+http://shoutcast.byfly.by:88/difm_tribalhouse
+
+#EXTINF:-1, Di.fm - Vocal Chillout
+http://shoutcast.byfly.by:88/difm_vocalchillout
+
+#EXTINF:-1, Di.fm - Vocal Trance
+http://shoutcast.byfly.by:88/difm_vocaltrance
+
+#EXTINF:-1, Discover Trance
+http://shoutcast.byfly.by:88/discovertrance
+
+#EXTINF:-1, Радио Disney
+http://shoutcast.byfly.by:88/disney
+
+#EXTINF:-1, DJFM 96.8 Kiev
+http://shoutcast.byfly.by:88/djfm
+
+#EXTINF:-1, DJFM 96.8 Kiev 256 kbps
+http://shoutcast.byfly.by:88/djfm256
+
+#EXTINF:-1, DMPulse
+http://shoutcast.byfly.by:88/dmpulse
+
+#EXTINF:-1, D N B R A D I O
+http://shoutcast.byfly.by:88/dnb
+
+#EXTINF:-1, Dogglounge
+http://shoutcast.byfly.by:88/dogglounge
+
+#EXTINF:-1, Дорожное Радио
+http://shoutcast.byfly.by:88/doroznoe
+
+#EXTINF:-1, Дорожное радио (256 kbps)
+http://shoutcast.byfly.by:88/doroznoe256
+
+#EXTINF:-1, Radio DRIVE
+http://shoutcast.byfly.by:88/drive
+
+#EXTINF:-1, Dublab
+http://shoutcast.byfly.by:88/dublab
+
+#EXTINF:-1, Dubstep (Record)
+http://shoutcast.byfly.by:88/dubstep
+
+#EXTINF:-1, DUBSUB
+http://shoutcast.byfly.by:88/dubsub
+
+#EXTINF:-1, Душевное Радио
+http://shoutcast.byfly.by:88/dushevnoe
+
+#EXTINF:-1, European Hit Radio
+http://shoutcast.byfly.by:88/ehr.ogg
+
+#EXTINF:-1, Eilo - Dubstep channel
+http://shoutcast.byfly.by:88/eilo_dubstep
+
+#EXTINF:-1, Эльдорадио
+http://shoutcast.byfly.by:88/eldoradio
+
+#EXTINF:-1, Radio ELECTRO
+http://shoutcast.byfly.by:88/electro
+
+#EXTINF:-1, EBM Radio
+http://shoutcast.byfly.by:88/embradio
+
+#EXTINF:-1, Радио ENERGY
+http://shoutcast.byfly.by:88/energyfm
+
+#EXTINF:-1, Радио ENERGY (224 kbps)
+http://shoutcast.byfly.by:88/energyfm224
+
+#EXTINF:-1, Entranced.FM
+http://shoutcast.byfly.by:88/entranced
+
+#EXTINF:-1, &#1028;! Рад&#1110;о
+http://shoutcast.byfly.by:88/eradio
+
+#EXTINF:-1, Eska Goraca 20
+http://shoutcast.byfly.by:88/eska20
+
+#EXTINF:-1, Eska Ballads
+http://shoutcast.byfly.by:88/eskaballads
+
+#EXTINF:-1, Eska Club
+http://shoutcast.byfly.by:88/eskaclub
+
+#EXTINF:-1, Eska Global Lista
+http://shoutcast.byfly.by:88/eskalist
+
+#EXTINF:-1, Eska Party
+http://shoutcast.byfly.by:88/eskaparty
+
+#EXTINF:-1, Eska RnB
+http://shoutcast.byfly.by:88/eskarnb
+
+#EXTINF:-1, Eska Rock
+http://shoutcast.byfly.by:88/eskarock
+
+#EXTINF:-1, Eska Xtreme
+http://shoutcast.byfly.by:88/eskaxtreme
+
+#EXTINF:-1, Etn.FM Trance
+http://shoutcast.byfly.by:88/etnfm_trance
+
+#EXTINF:-1, ETO RADIO +
+http://shoutcast.byfly.by:88/etoradioplus
+
+#EXTINF:-1, Европа+
+http://shoutcast.byfly.by:88/europaplus
+
+#EXTINF:-1, Европа+ (192 kbps)
+http://shoutcast.byfly.by:88/europaplus192
+
+#EXTINF:-1, Европа+ (320 kbps)
+http://shoutcast.byfly.by:88/europaplus320
+
+#EXTINF:-1, Европа+ Dance
+http://shoutcast.byfly.by:88/europaplus_dance
+
+#EXTINF:-1, Европа+ Fresh
+http://shoutcast.byfly.by:88/europaplus_fresh
+
+#EXTINF:-1, ЕвропаПлюс Спб
+http://shoutcast.byfly.by:88/europaplus_spb
+
+#EXTINF:-1, Европа+ Top 40
+http://shoutcast.byfly.by:88/europaplus_top40
+
+#EXTINF:-1, EUROPA FM
+http://shoutcast.byfly.by:88/europa_fm
+
+#EXTINF:-1, Е&#1118;рарады
+http://shoutcast.byfly.by:88/euroradio
+
+#EXTINF:-1, Е&#1118;рарады BY
+http://shoutcast.byfly.by:88/euroradio_by
+
+#EXTINF:-1, Evolution 93.5 Miami
+http://shoutcast.byfly.by:88/evolution
+
+#EXTINF:-1, Evropa 2 HOT
+http://shoutcast.byfly.by:88/evropa2hot
+
+#EXTINF:-1, Радио Фантастики
+http://shoutcast.byfly.by:88/fantasyradio
+
+#EXTINF:-1, FG Dj radio
+http://shoutcast.byfly.by:88/fgdjradio
+
+#EXTINF:-1, FG House Chic
+http://shoutcast.byfly.by:88/fg_c
+
+#EXTINF:-1, FG Dance
+http://shoutcast.byfly.by:88/fg_d
+
+#EXTINF:-1, FG Underground
+http://shoutcast.byfly.by:88/fg_u
+
+#EXTINF:-1, FG Remix
+http://shoutcast.byfly.by:88/fg_v
+
+#EXTINF:-1, Flaix FM Barcelona
+http://shoutcast.byfly.by:88/flaixfm
+
+#EXTINF:-1, ROCK FM
+http://shoutcast.byfly.by:88/fmrock
+
+#EXTINF:-1, Folk Alley
+http://shoutcast.byfly.by:88/folkalley
+
+#EXTINF:-1, Fontanka.Fm
+http://shoutcast.byfly.by:88/fontanka
+
+#EXTINF:-1, Hot 108 Jamz - For Hip-Hop
+http://shoutcast.byfly.by:88/forhiphop
+
+#EXTINF:-1, French Kiss FM
+http://shoutcast.byfly.by:88/french
+
+#EXTINF:-1, FREQUENCE3
+http://shoutcast.byfly.by:88/frequence3
+
+#EXTINF:-1, Fr&#233;quence3 FLAC
+http://shoutcast.byfly.by:88/frequence3.flac
+
+#EXTINF:-1, FreshFM
+http://shoutcast.byfly.by:88/freshfm
+
+#EXTINF:-1, Frisky Radio
+http://shoutcast.byfly.by:88/friskyradio
+
+#EXTINF:-1, FTB Clubbing
+http://shoutcast.byfly.by:88/ftb_club
+
+#EXTINF:-1, FTB House
+http://shoutcast.byfly.by:88/ftb_house
+
+#EXTINF:-1, FTB Trance
+http://shoutcast.byfly.by:88/ftb_trance
+
+#EXTINF:-1, FM Галичина
+http://shoutcast.byfly.by:88/galychyna
+
+#EXTINF:-1, GARDARICA FM
+http://shoutcast.byfly.by:88/gardarica_fm
+
+#EXTINF:-1, GayFM
+http://shoutcast.byfly.by:88/gay-radio
+
+#EXTINF:-1, Gaydio
+http://shoutcast.byfly.by:88/gaydio
+
+#EXTINF:-1, Globalbeats FM Blue radio
+http://shoutcast.byfly.by:88/gbfb
+
+#EXTINF:-1, Globalbeats FM White radio
+http://shoutcast.byfly.by:88/gbfw
+
+#EXTINF:-1, Gold London
+http://shoutcast.byfly.by:88/goldlondon
+
+#EXTINF:-1, Гомель FM
+http://shoutcast.byfly.by:88/gomelfm
+
+#EXTINF:-1, Гомель Плюс
+http://shoutcast.byfly.by:88/gomelplus
+
+#EXTINF:-1, Гомельское городское радио
+http://shoutcast.byfly.by:88/gomelradio
+
+#EXTINF:-1, ГОП FM
+http://shoutcast.byfly.by:88/gopfm
+
+#EXTINF:-1, Grad Petrov
+http://shoutcast.byfly.by:88/gradpetrov
+
+#EXTINF:-1, Italian Graffiati
+http://shoutcast.byfly.by:88/graffiati
+
+#EXTINF:-1, Grind.FM
+http://shoutcast.byfly.by:88/grind
+
+#EXTINF:-1, Радио Гродно
+http://shoutcast.byfly.by:88/grodno
+
+#EXTINF:-1, MFM 105,0
+http://shoutcast.byfly.by:88/grodnoplus
+
+#EXTINF:-1, Groove Radio
+http://shoutcast.byfly.by:88/grooveradio
+
+#EXTINF:-1, Guldkanalen
+http://shoutcast.byfly.by:88/guldkanalen
+
+#EXTINF:-1, HARDCORERADIO.NL
+http://shoutcast.byfly.by:88/hardcoreradio
+
+#EXTINF:-1, Hard Rock Radio
+http://shoutcast.byfly.by:88/hardrock
+
+#EXTINF:-1, HaZZard Of Darkness
+http://shoutcast.byfly.by:88/hazzardofdarkness
+
+#EXTINF:-1, HBR1 Dream Factory
+http://shoutcast.byfly.by:88/hbr1ambient.ogg
+
+#EXTINF:-1, HBR1 I.D.M. Tranceponder
+http://shoutcast.byfly.by:88/hbr1trance.ogg
+
+#EXTINF:-1, HBR1 Tronic Lounge
+http://shoutcast.byfly.by:88/hbr1tronic.ogg
+
+#EXTINF:-1, Heart Cambridge
+http://shoutcast.byfly.by:88/heart
+
+#EXTINF:-1, Радио Эрмитаж
+http://shoutcast.byfly.by:88/hermitage
+
+#EXTINF:-1, Хит Радио
+http://shoutcast.byfly.by:88/hit-radio
+
+#EXTINF:-1, HIT104
+http://shoutcast.byfly.by:88/hit104
+
+#EXTINF:-1, Хит FM
+http://shoutcast.byfly.by:88/hitfm
+
+#EXTINF:-1, Hit FM Gold
+http://shoutcast.byfly.by:88/hitfmgold
+
+#EXTINF:-1, Хiт FM UA
+http://shoutcast.byfly.by:88/hitfmua
+
+#EXTINF:-1, Хiт FM UA Romantic
+http://shoutcast.byfly.by:88/hitfmua_romantic
+
+#EXTINF:-1, Хитрое радио
+http://shoutcast.byfly.by:88/hitroeradio
+
+#EXTINF:-1, Hits Fm - Madrid
+http://shoutcast.byfly.by:88/hitsfm
+
+#EXTINF:-1, HoRadS
+http://shoutcast.byfly.by:88/horads
+
+#EXTINF:-1, Хорошее FM
+http://shoutcast.byfly.by:88/horoshee
+
+#EXTINF:-1, Horror-Theatre
+http://shoutcast.byfly.by:88/horror
+
+#EXTINF:-1, Seattle
+http://shoutcast.byfly.by:88/hotjamz
+
+#EXTINF:-1, HotMixRadio
+http://shoutcast.byfly.by:88/hotmixradio
+
+#EXTINF:-1, Hotmixradio Hits
+http://shoutcast.byfly.by:88/hotmixradiohit
+
+#EXTINF:-1, Юмор FM
+http://shoutcast.byfly.by:88/humor
+
+#EXTINF:-1, Юмор FM Гродно
+http://shoutcast.byfly.by:88/humor_grodno
+
+#EXTINF:-1, Юмор FM Минск
+http://shoutcast.byfly.by:88/humor_minsk
+
+#EXTINF:-1, 105 IBIZA CLUB
+http://shoutcast.byfly.by:88/ibiza
+
+#EXTINF:-1, idobi Radio
+http://shoutcast.byfly.by:88/idobi
+
+#EXTINF:-1, I LOVE RADIO
+http://shoutcast.byfly.by:88/iloveradio
+
+#EXTINF:-1, Israel1
+http://shoutcast.byfly.by:88/israel1
+
+#EXTINF:-1, Джем FM
+http://shoutcast.byfly.by:88/jamfm
+
+#EXTINF:-1, All New Jammin 101
+http://shoutcast.byfly.by:88/jammin101
+
+#EXTINF:-1, Dinner Jazz Excursion
+http://shoutcast.byfly.by:88/jazzdinner
+
+#EXTINF:-1, Радио Jazz
+http://shoutcast.byfly.by:88/jazzfm
+
+#EXTINF:-1, KCSM Jazz 91
+http://shoutcast.byfly.by:88/jazzradio
+
+#EXTINF:-1, R&#225;dio Jemn&#233;
+http://shoutcast.byfly.by:88/jemne
+
+#EXTINF:-1, Jungletrain.net
+http://shoutcast.byfly.by:88/jungletrain
+
+#EXTINF:-1, Радио Карнавал
+http://shoutcast.byfly.by:88/karnaval
+
+#EXTINF:-1, Katek.net радио
+http://shoutcast.byfly.by:88/kateknet
+
+#EXTINF:-1, Казачье радио
+http://shoutcast.byfly.by:88/kazak
+
+#EXTINF:-1, Кекс FM
+http://shoutcast.byfly.by:88/keksfm
+
+#EXTINF:-1, Киев FM
+http://shoutcast.byfly.by:88/kievfm
+
+#EXTINF:-1, KissFM
+http://shoutcast.byfly.by:88/kissfm
+
+#EXTINF:-1, KissFM (128 kbps)
+http://shoutcast.byfly.by:88/kissfm128
+
+#EXTINF:-1, KISS FM 2.0 Digital
+http://shoutcast.byfly.by:88/kissfm_digital
+
+#EXTINF:-1, KISS FM 2.0 Trance
+http://shoutcast.byfly.by:88/kissfm_trance
+
+#EXTINF:-1, KNAC.COM
+http://shoutcast.byfly.by:88/knac
+
+#EXTINF:-1, Koelncampus
+http://shoutcast.byfly.by:88/koelncampus
+
+#EXTINF:-1, Коммерсантъ FM
+http://shoutcast.byfly.by:88/kommersant
+
+#EXTINF:-1, Радио Континент
+http://shoutcast.byfly.by:88/kontinent
+
+#EXTINF:-1, Комсомольская правда
+http://shoutcast.byfly.by:88/kp
+
+#EXTINF:-1, La Grosse Radio
+http://shoutcast.byfly.by:88/lagrosseradio
+
+#EXTINF:-1, Top Latino
+http://shoutcast.byfly.by:88/latino
+
+#EXTINF:-1, Лепрорадио
+http://shoutcast.byfly.by:88/leproradio
+
+#EXTINF:-1, Лидер FM
+http://shoutcast.byfly.by:88/liderfm
+
+#EXTINF:-1, Like FM
+http://shoutcast.byfly.by:88/likefm
+
+#EXTINF:-1, Loca Relax
+http://shoutcast.byfly.by:88/loca_relax
+
+#EXTINF:-1, LOLLIRADIO HITS
+http://shoutcast.byfly.by:88/lolliradio
+
+#EXTINF:-1, LOLLIRADIO SOFT
+http://shoutcast.byfly.by:88/lollisoft
+
+#EXTINF:-1, LOUNGE - RADIO
+http://shoutcast.byfly.by:88/lounge-radio
+
+#EXTINF:-1, Lounge Fm
+http://shoutcast.byfly.by:88/loungefm
+
+#EXTINF:-1, Love радио
+http://shoutcast.byfly.by:88/loveradio
+
+#EXTINF:-1, Love радио (128 kbps)
+http://shoutcast.byfly.by:88/loveradio128
+
+#EXTINF:-1, Love радио (192 kbps)
+http://shoutcast.byfly.by:88/loveradio192
+
+#EXTINF:-1, Love радио (256 kbps)
+http://shoutcast.byfly.by:88/loveradio256
+
+#EXTINF:-1, M94.5
+http://shoutcast.byfly.by:88/m945.ogg
+
+#EXTINF:-1, Magic Radio
+http://shoutcast.byfly.by:88/magicradio
+
+#EXTINF:-1, MaksFM
+http://shoutcast.byfly.by:88/maksfm
+
+#EXTINF:-1, Salon du Mariage
+http://shoutcast.byfly.by:88/mariage
+
+#EXTINF:-1, Martini in the Morning
+http://shoutcast.byfly.by:88/martini
+
+#EXTINF:-1, Matryoshka Radio
+http://shoutcast.byfly.by:88/matryoshka
+
+#EXTINF:-1, MAXIMUM
+http://shoutcast.byfly.by:88/maximum
+
+#EXTINF:-1, MAXIMUM Sat
+http://shoutcast.byfly.by:88/maximum_sat
+
+#EXTINF:-1, Радио Маяк
+http://shoutcast.byfly.by:88/mayak
+
+#EXTINF:-1, Радио Маяк (320 kbps)
+http://shoutcast.byfly.by:88/mayak256
+
+#EXTINF:-1, Медляк FM
+http://shoutcast.byfly.by:88/medlyakfm
+
+#EXTINF:-1, Мегаполис FM
+http://shoutcast.byfly.by:88/megapolisfm
+
+#EXTINF:-1, Megapolis FM MD
+http://shoutcast.byfly.by:88/megapolis_md
+
+#EXTINF:-1, Mega Rock Radio
+http://shoutcast.byfly.by:88/megarock
+
+#EXTINF:-1, Мелодии века
+http://shoutcast.byfly.by:88/melodiiveka
+
+#EXTINF:-1, Мелодия
+http://shoutcast.byfly.by:88/melodiya
+
+#EXTINF:-1, METROPOLYS
+http://shoutcast.byfly.by:88/metropolys
+
+#EXTINF:-1, MFM Украина
+http://shoutcast.byfly.by:88/mfm
+
+#EXTINF:-1, mika.fm
+http://shoutcast.byfly.by:88/mikafm
+
+#EXTINF:-1, Милицейская волна
+http://shoutcast.byfly.by:88/milivolna
+
+#EXTINF:-1, Station Millenium
+http://shoutcast.byfly.by:88/millenium
+
+#EXTINF:-1, Радио Мир Беларусь
+http://shoutcast.byfly.by:88/mir_belarus
+
+#EXTINF:-1, Bachata Mix
+http://shoutcast.byfly.by:88/mix_bachata
+
+#EXTINF:-1, MJoy Radio - Рад&#1110;о з Кри&#1111;вки
+http://shoutcast.byfly.by:88/mjoy_rzk
+
+#EXTINF:-1, Michael Jackson Radio
+http://shoutcast.byfly.by:88/mjtunes
+
+#EXTINF:-1, Радио Могил в
+http://shoutcast.byfly.by:88/mogilev
+
+#EXTINF:-1, Monte Carlo 105.9 FM
+http://shoutcast.byfly.by:88/montecarlo
+
+#EXTINF:-1, Munich's Hardest Hits
+http://shoutcast.byfly.by:88/munichs
+
+#EXTINF:-1, MUSIK.CHRISTMAS
+http://shoutcast.byfly.by:88/musik_christmas
+
+#EXTINF:-1, Muzyczne Radio
+http://shoutcast.byfly.by:88/muzyczneradio
+
+#EXTINF:-1, Минская волна
+http://shoutcast.byfly.by:88/mvolna
+
+#EXTINF:-1, MyRadio - Acid Jazz
+http://shoutcast.byfly.by:88/myradio_acidjazz.ogg
+
+#EXTINF:-1, MyRadio - Blues
+http://shoutcast.byfly.by:88/myradio_blues.ogg
+
+#EXTINF:-1, MyRadio - Dance Club
+http://shoutcast.byfly.by:88/myradio_dance.ogg
+
+#EXTINF:-1, MyRadio - Electro House
+http://shoutcast.byfly.by:88/myradio_electro.ogg
+
+#EXTINF:-1, MyRadio - Hard Rock
+http://shoutcast.byfly.by:88/myradio_hardrock
+
+#EXTINF:-1, MyRadio - Музыка KaZaнтипа
+http://shoutcast.byfly.by:88/myradio_kazantip.ogg
+
+#EXTINF:-1, MyRadio - Детские песни
+http://shoutcast.byfly.by:88/myradio_kids.ogg
+
+#EXTINF:-1, MyRadio - Музыка Кино
+http://shoutcast.byfly.by:88/myradio_kino.ogg
+
+#EXTINF:-1, MyRadio - Lounge
+http://shoutcast.byfly.by:88/myradio_lounge.ogg
+
+#EXTINF:-1, MyRadio - Old
+http://shoutcast.byfly.by:88/myradio_old.ogg
+
+#EXTINF:-1, MyRadio - Поп-Хит
+http://shoutcast.byfly.by:88/myradio_pophit.ogg
+
+#EXTINF:-1, MyRadio - RnB
+http://shoutcast.byfly.by:88/myradio_rnb.ogg
+
+#EXTINF:-1, MyRadio - Rock-n-Roll
+http://shoutcast.byfly.by:88/myradio_rocknroll.ogg
+
+#EXTINF:-1, MyRadio - Русский Хит
+http://shoutcast.byfly.by:88/myradio_rushit.ogg
+
+#EXTINF:-1, MyRadio - Русская Лирика
+http://shoutcast.byfly.by:88/myradio_ruslyrics.ogg
+
+#EXTINF:-1, MyRadio - Русский Рэп
+http://shoutcast.byfly.by:88/myradio_rusrap.ogg
+
+#EXTINF:-1, MyRadio - Русский Рок
+http://shoutcast.byfly.by:88/myradio_rusrock.ogg
+
+#EXTINF:-1, MyRadio - Шансон
+http://shoutcast.byfly.by:88/myradio_shanson.ogg
+
+#EXTINF:-1, MyRadio - Mainstream Rock
+http://shoutcast.byfly.by:88/myradio_streamrock.ogg
+
+#EXTINF:-1, MyRadio - Trance & Progressive
+http://shoutcast.byfly.by:88/myradio_trance.ogg
+
+#EXTINF:-1, MyRadio - Украинский Хит
+http://shoutcast.byfly.by:88/myradio_ukr.ogg
+
+#EXTINF:-1, myRock
+http://shoutcast.byfly.by:88/myrock
+
+#EXTINF:-1, Народное радио
+http://shoutcast.byfly.by:88/narodnoe
+
+#EXTINF:-1, Наше радио
+http://shoutcast.byfly.by:88/nashe128
+
+#EXTINF:-1, Наше радио (192 kbps)
+http://shoutcast.byfly.by:88/nashe192
+
+#EXTINF:-1, Наше радио 2.0
+http://shoutcast.byfly.by:88/nashe20
+
+#EXTINF:-1, Наше радио (256 kbps)
+http://shoutcast.byfly.by:88/nashe256
+
+#EXTINF:-1, Наше Радио UA
+http://shoutcast.byfly.by:88/nasheradio
+
+#EXTINF:-1, New Normal Rock
+http://shoutcast.byfly.by:88/newnormalrock
+
+#EXTINF:-1, Новое радио 98,4 FM MSK
+http://shoutcast.byfly.by:88/newradio
+
+#EXTINF:-1, Nexus Radio Dance
+http://shoutcast.byfly.by:88/nexus_dance
+
+#EXTINF:-1, NonStopPlay
+http://shoutcast.byfly.by:88/nonstopplay
+
+#EXTINF:-1, Nostalgia FM
+http://shoutcast.byfly.by:88/nostalgia
+
+#EXTINF:-1, Nostalgie
+http://shoutcast.byfly.by:88/nostalgie
+
+#EXTINF:-1, Новое радио
+http://shoutcast.byfly.by:88/novoeradio
+
+#EXTINF:-1, Новое радио (256 kbps)
+http://shoutcast.byfly.by:88/novoeradio256
+
+#EXTINF:-1, Новое Радио MEGAMIX
+http://shoutcast.byfly.by:88/novoeradio_mix
+
+#EXTINF:-1, Новое Радио Pop-Rock
+http://shoutcast.byfly.by:88/novoeradio_poprock
+
+#EXTINF:-1, Новое Радио Русское
+http://shoutcast.byfly.by:88/novoeradio_russian
+
+#EXTINF:-1, Новое радио TOP-100
+http://shoutcast.byfly.by:88/novoeradio_top100
+
+#EXTINF:-1, NRJ 90
+http://shoutcast.byfly.by:88/nrj90
+
+#EXTINF:-1, NRJ BLACK
+http://shoutcast.byfly.by:88/nrjblack
+
+#EXTINF:-1, NRJ Charts
+http://shoutcast.byfly.by:88/nrjcharts
+
+#EXTINF:-1, NRJ DANCE
+http://shoutcast.byfly.by:88/nrjdance
+
+#EXTINF:-1, NRJ GIRL
+http://shoutcast.byfly.by:88/nrjgirl
+
+#EXTINF:-1, NRJ HOT
+http://shoutcast.byfly.by:88/nrjhot
+
+#EXTINF:-1, NRJ LOVE
+http://shoutcast.byfly.by:88/nrjlove
+
+#EXTINF:-1, NRJ ROCK
+http://shoutcast.byfly.by:88/nrjrock
+
+#EXTINF:-1, NRJ SOUNDTRACK
+http://shoutcast.byfly.by:88/nrjsoundtrack
+
+#EXTINF:-1, NRJ UA
+http://shoutcast.byfly.by:88/nrj_ua
+
+#EXTINF:-1, NTI 93.4 FM
+http://shoutcast.byfly.by:88/nti
+
+#EXTINF:-1, New clear radio
+http://shoutcast.byfly.by:88/nu_clear
+
+#EXTINF:-1, Одесса-Мама
+http://shoutcast.byfly.by:88/odessa
+
+#EXTINF:-1, Oldies 1610
+http://shoutcast.byfly.by:88/oldies1610
+
+#EXTINF:-1, ОНТ радио
+http://shoutcast.byfly.by:88/ont
+
+#EXTINF:-1, Радио Орфей
+http://shoutcast.byfly.by:88/orfey
+
+#EXTINF:-1, Paris One Dance
+http://shoutcast.byfly.by:88/p1_dance
+
+#EXTINF:-1, Paradise radio
+http://shoutcast.byfly.by:88/paradiseradio
+
+#EXTINF:-1, PARTYVIBE
+http://shoutcast.byfly.by:88/partyvibe
+
+#EXTINF:-1, Пилот FM
+http://shoutcast.byfly.by:88/pilotfm
+
+#EXTINF:-1, Pioneer DJ
+http://shoutcast.byfly.by:88/pioneerdj
+
+#EXTINF:-1, Пионер FM
+http://shoutcast.byfly.by:88/pionerfm
+
+#EXTINF:-1, Пионер FM HD
+http://shoutcast.byfly.by:88/pionerfm_hd
+
+#EXTINF:-1, Pirate Station (Record)
+http://shoutcast.byfly.by:88/pirate
+
+#EXTINF:-1, Radio POGODA
+http://shoutcast.byfly.by:88/pogoda
+
+#EXTINF:-1, Polskie Radio 2
+http://shoutcast.byfly.by:88/polskieradio2
+
+#EXTINF:-1, Polskie Radio 3
+http://shoutcast.byfly.by:88/polskieradio3
+
+#EXTINF:-1, Polskie Radio 4
+http://shoutcast.byfly.by:88/polskieradio4
+
+#EXTINF:-1, Polskie Radio dla zagranicy
+http://shoutcast.byfly.by:88/polskieradio_zagran
+
+#EXTINF:-1, PopBuzz
+http://shoutcast.byfly.by:88/popbuzz
+
+#EXTINF:-1, POP FM
+http://shoutcast.byfly.by:88/popfm
+
+#EXTINF:-1, Power FM BG
+http://shoutcast.byfly.by:88/powerfm_bg
+
+#EXTINF:-1, Power Hit
+http://shoutcast.byfly.by:88/powerhit.ogg
+
+#EXTINF:-1, POWERHITZ
+http://shoutcast.byfly.by:88/powerhitz
+
+#EXTINF:-1, Правда Радио
+http://shoutcast.byfly.by:88/pravda
+
+#EXTINF:-1, Pro FM
+http://shoutcast.byfly.by:88/profm
+
+#EXTINF:-1, Просто FM
+http://shoutcast.byfly.by:88/prosto
+
+#EXTINF:-1, Proton radio
+http://shoutcast.byfly.by:88/proton
+
+#EXTINF:-1, Psy chillchannel
+http://shoutcast.byfly.by:88/psyradio_chillchannel
+
+#EXTINF:-1, Psy progchannel
+http://shoutcast.byfly.by:88/psyradio_progchannel
+
+#EXTINF:-1, Psy
+http://shoutcast.byfly.by:88/psyradio_psychannel
+
+#EXTINF:-1, POLSKASTACJA Ballady Rockowe
+http://shoutcast.byfly.by:88/ps_ballady
+
+#EXTINF:-1, POLSKASTACJA Blues
+http://shoutcast.byfly.by:88/ps_blues
+
+#EXTINF:-1, POLSKASTACJA Chillout
+http://shoutcast.byfly.by:88/ps_chillout
+
+#EXTINF:-1, POLSKASTACJA Club HITS
+http://shoutcast.byfly.by:88/ps_clubhits
+
+#EXTINF:-1, POLSKASTACJA House & Dance
+http://shoutcast.byfly.by:88/ps_dance
+
+#EXTINF:-1, POLSKASTACJA Dance 100
+http://shoutcast.byfly.by:88/ps_dance100
+
+#EXTINF:-1, POLSKASTACJA DJ TOP 50
+http://shoutcast.byfly.by:88/ps_djtop
+
+#EXTINF:-1, POLSKASTACJA Drum And Bass
+http://shoutcast.byfly.by:88/ps_drum
+
+#EXTINF:-1, POLSKASTACJA Klasyka Muzyki Elektronicznej
+http://shoutcast.byfly.by:88/ps_elektronic
+
+#EXTINF:-1, POLSKASTACJA Era DISCO
+http://shoutcast.byfly.by:88/ps_eradisco
+
+#EXTINF:-1, POLSKASTACJA Muzyka Francuska
+http://shoutcast.byfly.by:88/ps_francuska
+
+#EXTINF:-1, POLSKASTACJA HipHop
+http://shoutcast.byfly.by:88/ps_hiphop
+
+#EXTINF:-1, POLSKASTACJA HOT 100
+http://shoutcast.byfly.by:88/ps_hot100
+
+#EXTINF:-1, POLSKASTACJA HOT House
+http://shoutcast.byfly.by:88/ps_house
+
+#EXTINF:-1, POLSKASTACJA Italia
+http://shoutcast.byfly.by:88/ps_italia
+
+#EXTINF:-1, POLSKASTACJA Jazz
+http://shoutcast.byfly.by:88/ps_jazz
+
+#EXTINF:-1, POLSKASTACJA Klasycznie
+http://shoutcast.byfly.by:88/ps_klasycznie
+
+#EXTINF:-1, POLSKASTACJA Latino
+http://shoutcast.byfly.by:88/ps_latino
+
+#EXTINF:-1, POLSKASTACJA Mocne Brzmienie Rocka
+http://shoutcast.byfly.by:88/ps_mocne
+
+#EXTINF:-1, POLSKASTACJA Modern rock
+http://shoutcast.byfly.by:88/ps_modern
+
+#EXTINF:-1, POLSKASTACJA Muzyka Na TOPIE
+http://shoutcast.byfly.by:88/ps_musicnatop
+
+#EXTINF:-1, POLSKASTACJA 80&90
+http://shoutcast.byfly.by:88/ps_najwieksze
+
+#EXTINF:-1, POLSKASTACJA Old
+http://shoutcast.byfly.by:88/ps_oldies
+
+#EXTINF:-1, POLSKASTACJA Reggae
+http://shoutcast.byfly.by:88/ps_reggae
+
+#EXTINF:-1, POLSKASTACJA RnB
+http://shoutcast.byfly.by:88/ps_rnb
+
+#EXTINF:-1, POLSKASTACJA Rock
+http://shoutcast.byfly.by:88/ps_rock
+
+#EXTINF:-1, POLSKASTACJA Przeboje We Dwoje
+http://shoutcast.byfly.by:88/ps_romantic
+
+#EXTINF:-1, POLSKASTACJA Smooth Jazz
+http://shoutcast.byfly.by:88/ps_smooth
+
+#EXTINF:-1, POLSKASTACJA Szanty
+http://shoutcast.byfly.by:88/ps_szanty
+
+#EXTINF:-1, POLSKASTACJA XMAS
+http://shoutcast.byfly.by:88/ps_xmas
+
+#EXTINF:-1, PulsRadio Version 8.0
+http://shoutcast.byfly.by:88/pulse80s
+
+#EXTINF:-1, PulsRadio Version Trance
+http://shoutcast.byfly.by:88/pulse_trance
+
+#EXTINF:-1, PulsRadio
+http://shoutcast.byfly.by:88/pulsradio
+
+#EXTINF:-1, RantRadio Punk
+http://shoutcast.byfly.by:88/punk
+
+#EXTINF:-1, Рады Рацыя
+http://shoutcast.byfly.by:88/racyja
+
+#EXTINF:-1, Рады 1
+http://shoutcast.byfly.by:88/radio1
+
+#EXTINF:-1, Radio 10
+http://shoutcast.byfly.by:88/radio10
+
+#EXTINF:-1, Радио 107
+http://shoutcast.byfly.by:88/radio107
+
+#EXTINF:-1, Radio13
+http://shoutcast.byfly.by:88/radio13
+
+#EXTINF:-1, Radio 538
+http://shoutcast.byfly.by:88/radio538
+
+#EXTINF:-1, Радио 7
+http://shoutcast.byfly.by:88/radio7
+
+#EXTINF:-1, Радио 7 (256 kbps)
+http://shoutcast.byfly.by:88/radio7_256
+
+#EXTINF:-1, RADIO 80
+http://shoutcast.byfly.by:88/radio80
+
+#EXTINF:-1, Radio88
+http://shoutcast.byfly.by:88/radio88
+
+#EXTINF:-1, Радио Би-Эй
+http://shoutcast.byfly.by:88/radioba
+
+#EXTINF:-1, Radio Cafe
+http://shoutcast.byfly.by:88/radiocafe
+
+#EXTINF:-1, Канал Культура
+http://shoutcast.byfly.by:88/radiocult
+
+#EXTINF:-1, Дача радио
+http://shoutcast.byfly.by:88/radiodacha
+
+#EXTINF:-1, Дача радио (192 kbps)
+http://shoutcast.byfly.by:88/radiodacha192
+
+#EXTINF:-1, Дача радио Sat
+http://shoutcast.byfly.by:88/radiodacha_sat
+
+#EXTINF:-1, &#1028;вропейська станц&#1110;я
+http://shoutcast.byfly.by:88/radioec
+
+#EXTINF:-1, Рад&#1110;о ЕРА-FM
+http://shoutcast.byfly.by:88/radioera
+
+#EXTINF:-1, Radio Hot Style
+http://shoutcast.byfly.by:88/radiohot
+
+#EXTINF:-1, Радиола
+http://shoutcast.byfly.by:88/radiola
+
+#EXTINF:-1, RadioLike
+http://shoutcast.byfly.by:88/radiolike
+
+#EXTINF:-1, Радио Metro
+http://shoutcast.byfly.by:88/radiometro
+
+#EXTINF:-1, Радио Минск
+http://shoutcast.byfly.by:88/radiominsk
+
+#EXTINF:-1, Radio Nami
+http://shoutcast.byfly.by:88/radionami
+
+#EXTINF:-1, Открытый канал
+http://shoutcast.byfly.by:88/radiook
+
+#EXTINF:-1, Радио Пятница
+http://shoutcast.byfly.by:88/radiopyatnica
+
+#EXTINF:-1, Рекорд радио
+http://shoutcast.byfly.by:88/radiorecord
+
+#EXTINF:-1, Рекорд (192 kbps)
+http://shoutcast.byfly.by:88/radiorecord192
+
+#EXTINF:-1, Рекорд (320 kbps)
+http://shoutcast.byfly.by:88/radiorecord320
+
+#EXTINF:-1, Рекорд (64 aac+)
+http://shoutcast.byfly.by:88/radiorecord64
+
+#EXTINF:-1, Рекорд Регионы
+http://shoutcast.byfly.by:88/radiorecord_regions
+
+#EXTINF:-1, Radio Relax UA
+http://shoutcast.byfly.by:88/radiorelax
+
+#EXTINF:-1, Радио России
+http://shoutcast.byfly.by:88/radiorus
+
+#EXTINF:-1, Radioseven
+http://shoutcast.byfly.by:88/radioseven
+
+#EXTINF:-1, Shock Радио
+http://shoutcast.byfly.by:88/radioshock
+
+#EXTINF:-1, Радио Сибирь
+http://shoutcast.byfly.by:88/radiosibir
+
+#EXTINF:-1, RADIO ZET
+http://shoutcast.byfly.by:88/radiozet
+
+#EXTINF:-1, RADIO ZET Gold
+http://shoutcast.byfly.by:88/radiozet_gold
+
+#EXTINF:-1, RADIO ZET Hot
+http://shoutcast.byfly.by:88/radiozet_hot
+
+#EXTINF:-1, RADIO ZET Love
+http://shoutcast.byfly.by:88/radiozet_love
+
+#EXTINF:-1, Radio ZU
+http://shoutcast.byfly.by:88/radiozu
+
+#EXTINF:-1, Радиус FM
+http://shoutcast.byfly.by:88/radiusfm
+
+#EXTINF:-1, RaDYo MaX
+http://shoutcast.byfly.by:88/radyomax
+
+#EXTINF:-1, Raggakings
+http://shoutcast.byfly.by:88/raggakings
+
+#EXTINF:-1, Радио Ранак
+http://shoutcast.byfly.by:88/ranak
+
+#EXTINF:-1, RAW SOUND
+http://shoutcast.byfly.by:88/rawsound
+
+#EXTINF:-1, Радио для двоих
+http://shoutcast.byfly.by:88/rdd
+
+#EXTINF:-1, Record Russian Mix
+http://shoutcast.byfly.by:88/record_rm
+
+#EXTINF:-1, 808 Live Reggaecast
+http://shoutcast.byfly.by:88/reggaecast
+
+#EXTINF:-1, Relax FM
+http://shoutcast.byfly.by:88/relaxfm
+
+#EXTINF:-1, Relax FM (192 kbps)
+http://shoutcast.byfly.by:88/relaxfm192
+
+#EXTINF:-1, Ретро FM
+http://shoutcast.byfly.by:88/retrofm
+
+#EXTINF:-1, Ретро FM (256 kbps)
+http://shoutcast.byfly.by:88/retrofm256
+
+#EXTINF:-1, Ретро FM Romantic Ballads
+http://shoutcast.byfly.by:88/retrofm_ballads
+
+#EXTINF:-1, Ретро FM Dance
+http://shoutcast.byfly.by:88/retrofm_dance
+
+#EXTINF:-1, Ретро FM Russian Collection
+http://shoutcast.byfly.by:88/retrofm_russian
+
+#EXTINF:-1, Ретро FM SpB
+http://shoutcast.byfly.by:88/retrofm_spb
+
+#EXTINF:-1, Ретро FM Киев
+http://shoutcast.byfly.by:88/retro_kiev
+
+#EXTINF:-1, Radio Italia Network
+http://shoutcast.byfly.by:88/rin
+
+#EXTINF:-1, Rinse FM
+http://shoutcast.byfly.by:88/rinse
+
+#EXTINF:-1, RiseFM
+http://shoutcast.byfly.by:88/risefm
+
+#EXTINF:-1, Radio Rivendell
+http://shoutcast.byfly.by:88/rivendell
+
+#EXTINF:-1, Monte Carlo
+http://shoutcast.byfly.by:88/rmc
+
+#EXTINF:-1, RMF FM
+http://shoutcast.byfly.by:88/rmf
+
+#EXTINF:-1, RMF Classic
+http://shoutcast.byfly.by:88/rmf_classic
+
+#EXTINF:-1, RMF CUBA
+http://shoutcast.byfly.by:88/rmf_cuba
+
+#EXTINF:-1, RMF LOVE
+http://shoutcast.byfly.by:88/rmf_love
+
+#EXTINF:-1, RMF MAXXX
+http://shoutcast.byfly.by:88/rmf_maxxx
+
+#EXTINF:-1, RMF HOT NEW
+http://shoutcast.byfly.by:88/rmf_new
+
+#EXTINF:-1, RMNradio
+http://shoutcast.byfly.by:88/rmnradio
+
+#EXTINF:-1, RMNrelax
+http://shoutcast.byfly.by:88/rmnrelax
+
+#EXTINF:-1, RMX
+http://shoutcast.byfly.by:88/rmx
+
+#EXTINF:-1, Number ONE
+http://shoutcast.byfly.by:88/rnumone
+
+#EXTINF:-1, ROCK ARSENAL
+http://shoutcast.byfly.by:88/rockarsenal
+
+#EXTINF:-1, Rockradio - 80s
+http://shoutcast.byfly.by:88/rockradio_80s
+
+#EXTINF:-1, Rockradio - 90s
+http://shoutcast.byfly.by:88/rockradio_90s
+
+#EXTINF:-1, Rockradio - Alternative Rock
+http://shoutcast.byfly.by:88/rockradio_alternativerock
+
+#EXTINF:-1, Rockradio - Classic Rock
+http://shoutcast.byfly.by:88/rockradio_classicrock
+
+#EXTINF:-1, Rockradio - Modern Rock
+http://shoutcast.byfly.by:88/rockradio_modernrock
+
+#EXTINF:-1, Rockradio - Pop Rock
+http://shoutcast.byfly.by:88/rockradio_poprock
+
+#EXTINF:-1, Rockradio - Rock Ballads
+http://shoutcast.byfly.by:88/rockradio_rockballads
+
+#EXTINF:-1, Rockradio - Soft Rock
+http://shoutcast.byfly.by:88/rockradio_softrock
+
+#EXTINF:-1, ROCKY FM
+http://shoutcast.byfly.by:88/rockyfm
+
+#EXTINF:-1, Rock Zone
+http://shoutcast.byfly.by:88/rockzone
+
+#EXTINF:-1, Radio Roks
+http://shoutcast.byfly.by:88/roks
+
+#EXTINF:-1, Radio ROKS Ballads
+http://shoutcast.byfly.by:88/roks_ballads
+
+#EXTINF:-1, Радио Рокс (Минск)
+http://shoutcast.byfly.by:88/roks_minsk
+
+#EXTINF:-1, ROKS - Classic rock (Минск)
+http://shoutcast.byfly.by:88/roks_minskclassic
+
+#EXTINF:-1, ROKS - Top 100 (Минск)
+http://shoutcast.byfly.by:88/roks_minsktop
+
+#EXTINF:-1, Radio ROKS UA
+http://shoutcast.byfly.by:88/roks_ua
+
+#EXTINF:-1, Радио Romantika
+http://shoutcast.byfly.by:88/romantika
+
+#EXTINF:-1, Радио Romantika (256 kbps)
+http://shoutcast.byfly.by:88/romantika256
+
+#EXTINF:-1, ROXY FM
+http://shoutcast.byfly.by:88/roxyfm
+
+#EXTINF:-1, РСН
+http://shoutcast.byfly.by:88/rsn
+
+#EXTINF:-1, Love radio NL
+http://shoutcast.byfly.by:88/rtvlove
+
+#EXTINF:-1, Русский ХИТ
+http://shoutcast.byfly.by:88/ruhit
+
+#EXTINF:-1, Русское радио Балтия
+http://shoutcast.byfly.by:88/rusradio_baltija
+
+#EXTINF:-1, Русское радио
+http://shoutcast.byfly.by:88/russianradio
+
+#EXTINF:-1, Русское радио (192 kbps)
+http://shoutcast.byfly.by:88/russianradio192
+
+#EXTINF:-1, Русское радио (224 kbps)
+http://shoutcast.byfly.by:88/russianradio224
+
+#EXTINF:-1, Русское Радио - Минск
+http://shoutcast.byfly.by:88/russianradiominsk
+
+#EXTINF:-1, Русское радио UA
+http://shoutcast.byfly.by:88/russianradioua
+
+#EXTINF:-1, Русское радио UA - Дискотека
+http://shoutcast.byfly.by:88/russianradioua_dance
+
+#EXTINF:-1, Русское Радио - Рок
+http://shoutcast.byfly.by:88/russianradio_rock
+
+#EXTINF:-1, Русское радио Тамбов
+http://shoutcast.byfly.by:88/russianradio_tmb
+
+#EXTINF:-1, Sanctuary Radio
+http://shoutcast.byfly.by:88/sanctuary
+
+#EXTINF:-1, SanFM
+http://shoutcast.byfly.by:88/sanfm
+
+#EXTINF:-1, Супер Дискотэка
+http://shoutcast.byfly.by:88/sd90
+
+#EXTINF:-1, Шансон
+http://shoutcast.byfly.by:88/shanson
+
+#EXTINF:-1, Шансон (192 kbps)
+http://shoutcast.byfly.by:88/shanson192
+
+#EXTINF:-1, Шансон UA
+http://shoutcast.byfly.by:88/shanson_ua
+
+#EXTINF:-1, Радио Шарманка
+http://shoutcast.byfly.by:88/sharmanka
+
+#EXTINF:-1, Серебрянный дождь
+http://shoutcast.byfly.by:88/silverrain
+
+#EXTINF:-1, Серебрянный дождь (256 kbps)
+http://shoutcast.byfly.by:88/silverrain256
+
+#EXTINF:-1, Радио CкиФ
+http://shoutcast.byfly.by:88/skif
+
+#EXTINF:-1, Skipper Radio
+http://shoutcast.byfly.by:88/skipper
+
+#EXTINF:-1, Radio Skonto
+http://shoutcast.byfly.by:88/skonto
+
+#EXTINF:-1, Sky.fm - Best 80s
+http://shoutcast.byfly.by:88/skyfm_80s
+
+#EXTINF:-1, Sky.fm - Alternative Rock
+http://shoutcast.byfly.by:88/skyfm_alternative
+
+#EXTINF:-1, Sky.fm - Bebop Jazz
+http://shoutcast.byfly.by:88/skyfm_bebop
+
+#EXTINF:-1, Sky.fm - Bossa Nova Jazz
+http://shoutcast.byfly.by:88/skyfm_bossanovajazz
+
+#EXTINF:-1, Sky.fm - Caf&#233; de Paris
+http://shoutcast.byfly.by:88/skyfm_cafedeparis
+
+#EXTINF:-1, Sky.fm - Chill & Tropical House
+http://shoutcast.byfly.by:88/skyfm_chillntropicalhouse
+
+#EXTINF:-1, Sky.fm - Classic Rap
+http://shoutcast.byfly.by:88/skyfm_classicrap
+
+#EXTINF:-1, Sky.fm - Classic Rock
+http://shoutcast.byfly.by:88/skyfm_classicrock
+
+#EXTINF:-1, Sky.fm - Contemporary Christian
+http://shoutcast.byfly.by:88/skyfm_contemchristian
+
+#EXTINF:-1, Sky.fm - Country
+http://shoutcast.byfly.by:88/skyfm_country
+
+#EXTINF:-1, Sky.fm - Cuban Lounge
+http://shoutcast.byfly.by:88/skyfm_cubanlounge
+
+#EXTINF:-1, Sky.fm - Dance Hits
+http://shoutcast.byfly.by:88/skyfm_dance
+
+#EXTINF:-1, Sky.fm - DaTempo Lounge
+http://shoutcast.byfly.by:88/skyfm_datempolounge
+
+#EXTINF:-1, Sky.fm - Dreamscapes
+http://shoutcast.byfly.by:88/skyfm_dreamscapes
+
+#EXTINF:-1, Sky.fm - EDM Fest
+http://shoutcast.byfly.by:88/skyfm_edmfest
+
+#EXTINF:-1, Sky.fm - Classic Guitar
+http://shoutcast.byfly.by:88/skyfm_guitar
+
+#EXTINF:-1, Sky.fm - Hard Rock
+http://shoutcast.byfly.by:88/skyfm_hardrock
+
+#EXTINF:-1, Sky.fm - 00s Hits
+http://shoutcast.byfly.by:88/skyfm_hit00s
+
+#EXTINF:-1, Sky.fm - Hits Of 70`s
+http://shoutcast.byfly.by:88/skyfm_hit70s
+
+#EXTINF:-1, Sky.fm - Indie Rock
+http://shoutcast.byfly.by:88/skyfm_indie
+
+#EXTINF:-1, Sky.fm - Jazz Classics
+http://shoutcast.byfly.by:88/skyfm_jazzclassics
+
+#EXTINF:-1, Sky.fm - Jpop
+http://shoutcast.byfly.by:88/skyfm_jpop
+
+#EXTINF:-1, Sky.fm - Lounge
+http://shoutcast.byfly.by:88/skyfm_lounge
+
+#EXTINF:-1, Sky.fm - Love Music
+http://shoutcast.byfly.by:88/skyfm_lovemusic
+
+#EXTINF:-1, Sky.fm - Metal
+http://shoutcast.byfly.by:88/skyfm_metal
+
+#EXTINF:-1, Sky.fm - Modern Blues
+http://shoutcast.byfly.by:88/skyfm_modernblues
+
+#EXTINF:-1, Sky.fm - Modern Rock
+http://shoutcast.byfly.by:88/skyfm_modernrock
+
+#EXTINF:-1, Sky.fm - Mostly Classical
+http://shoutcast.byfly.by:88/skyfm_mostly
+
+#EXTINF:-1, Sky.fm - Mozart
+http://shoutcast.byfly.by:88/skyfm_mozart
+
+#EXTINF:-1, Sky.fm - Nature
+http://shoutcast.byfly.by:88/skyfm_nature
+
+#EXTINF:-1, Sky.fm - New Age
+http://shoutcast.byfly.by:88/skyfm_newage
+
+#EXTINF:-1, Sky.fm - Old music
+http://shoutcast.byfly.by:88/skyfm_oldies
+
+#EXTINF:-1, Sky.fm - Piano Jazz
+http://shoutcast.byfly.by:88/skyfm_pianojazz
+
+#EXTINF:-1, Sky.fm - Reggae
+http://shoutcast.byfly.by:88/skyfm_reggae
+
+#EXTINF:-1, Sky.fm - Relaxation
+http://shoutcast.byfly.by:88/skyfm_relaxation
+
+#EXTINF:-1, Sky.fm - Romantica
+http://shoutcast.byfly.by:88/skyfm_romantica
+
+#EXTINF:-1, Sky.fm - Rom&#225;ntica Latina
+http://shoutcast.byfly.by:88/skyfm_romanticalatina
+
+#EXTINF:-1, Sky.fm - Salsa
+http://shoutcast.byfly.by:88/skyfm_salsa
+
+#EXTINF:-1, Sky.fm - Simply Soundtracks
+http://shoutcast.byfly.by:88/skyfm_simplysoundtracks
+
+#EXTINF:-1, Sky.fm - Smooth Jazz
+http://shoutcast.byfly.by:88/skyfm_smoothjazz
+
+#EXTINF:-1, Sky.fm - Smooth Jazz 24/7
+http://shoutcast.byfly.by:88/skyfm_smoothjazz247
+
+#EXTINF:-1, Sky.fm - Soft Rock
+http://shoutcast.byfly.by:88/skyfm_softrock
+
+#EXTINF:-1, Sky.fm - Solo Piano
+http://shoutcast.byfly.by:88/skyfm_solopiano
+
+#EXTINF:-1, Sky.fm - Top Hits
+http://shoutcast.byfly.by:88/skyfm_tophits
+
+#EXTINF:-1, Sky.fm - Uptempo
+http://shoutcast.byfly.by:88/skyfm_uptempo
+
+#EXTINF:-1, Sky.fm - Urban Jamz
+http://shoutcast.byfly.by:88/skyfm_urbanjamz
+
+#EXTINF:-1, Sky.fm - Vocal New Age
+http://shoutcast.byfly.by:88/skyfm_vocalnewage
+
+#EXTINF:-1, Sky.fm - Vocal Smooth Jazz
+http://shoutcast.byfly.by:88/skyfm_vocalsmoothjazz
+
+#EXTINF:-1, Sky.fm - World Music
+http://shoutcast.byfly.by:88/skyfm_worldmusic
+
+#EXTINF:-1, Sky Radio
+http://shoutcast.byfly.by:88/skyradio
+
+#EXTINF:-1, SLAM!FM
+http://shoutcast.byfly.by:88/slamfm
+
+#EXTINF:-1, Slow Radio
+http://shoutcast.byfly.by:88/slowradio
+
+#EXTINF:-1, SMOOTHJAZZ.COM
+http://shoutcast.byfly.by:88/smoothjazz
+
+#EXTINF:-1, Smooth Jazz Vibes
+http://shoutcast.byfly.by:88/smoothjazzvibes
+
+#EXTINF:-1, smoothjazz.com.pl
+http://shoutcast.byfly.by:88/smoothjazz_pl
+
+#EXTINF:-1, SmoothLounge
+http://shoutcast.byfly.by:88/smoothlounge
+
+#EXTINF:-1, Soma FM - BeatBlender
+http://shoutcast.byfly.by:88/somafm_beatblender
+
+#EXTINF:-1, Soma FM - Boot Liquor
+http://shoutcast.byfly.by:88/somafm_bootliquor
+
+#EXTINF:-1, Soma FM - Cliqhop idm
+http://shoutcast.byfly.by:88/somafm_cliqhopidm
+
+#EXTINF:-1, Soma FM - Mission Control
+http://shoutcast.byfly.by:88/somafm_control
+
+#EXTINF:-1, Soma FM - Cover Me
+http://shoutcast.byfly.by:88/somafm_cover
+
+#EXTINF:-1, Soma FM - Digitalis
+http://shoutcast.byfly.by:88/somafm_digitalis
+
+#EXTINF:-1, Soma FM - Doomed
+http://shoutcast.byfly.by:88/somafm_doomed
+
+#EXTINF:-1, Soma FM - Drone Zone
+http://shoutcast.byfly.by:88/somafm_dronezone
+
+#EXTINF:-1, Soma FM - Suburbs of Goa
+http://shoutcast.byfly.by:88/somafm_goa
+
+#EXTINF:-1, Soma FM - Groove Salad
+http://shoutcast.byfly.by:88/somafm_groovesalad
+
+#EXTINF:-1, Soma FM - Illinois Street Lounge
+http://shoutcast.byfly.by:88/somafm_illinoisstreetlounge
+
+#EXTINF:-1, Soma FM - Indie pop rocks
+http://shoutcast.byfly.by:88/somafm_indiepoprocks
+
+#EXTINF:-1, Soma FM - Lush
+http://shoutcast.byfly.by:88/somafm_lush
+
+#EXTINF:-1, Soma FM - PopTron
+http://shoutcast.byfly.by:88/somafm_poptron
+
+#EXTINF:-1, Soma FM - Secret Agent
+http://shoutcast.byfly.by:88/somafm_secretagent
+
+#EXTINF:-1, Soma FM - Sonic Universe
+http://shoutcast.byfly.by:88/somafm_sonic
+
+#EXTINF:-1, Soma FM - Space Station Soma
+http://shoutcast.byfly.by:88/somafm_spacestation
+
+#EXTINF:-1, Soma FM - Tag
+http://shoutcast.byfly.by:88/somafm_tagtrancetrip
+
+#EXTINF:-1, SOSH Radio
+http://shoutcast.byfly.by:88/soshradio
+
+#EXTINF:-1, SoundPortal
+http://shoutcast.byfly.by:88/soundportal
+
+#EXTINF:-1, Streaming Soundtracks
+http://shoutcast.byfly.by:88/soundtracks
+
+#EXTINF:-1, Спорт FM
+http://shoutcast.byfly.by:88/sportfm
+
+#EXTINF:-1, Radio Sraka
+http://shoutcast.byfly.by:88/sraka
+
+#EXTINF:-1, SunRadio Black
+http://shoutcast.byfly.by:88/srblack
+
+#EXTINF:-1, SunRadio Lounge
+http://shoutcast.byfly.by:88/srlounge
+
+#EXTINF:-1, SunRadio Детские Песенки
+http://shoutcast.byfly.by:88/srpesenki
+
+#EXTINF:-1, SunRadio Сказки
+http://shoutcast.byfly.by:88/srskazki
+
+#EXTINF:-1, Старое радио
+http://shoutcast.byfly.by:88/staroeradio
+
+#EXTINF:-1, Start FM
+http://shoutcast.byfly.by:88/startfm.ogg
+
+#EXTINF:-1, Station X
+http://shoutcast.byfly.by:88/stationx
+
+#EXTINF:-1, Steal
+http://shoutcast.byfly.by:88/stealkill.ogg
+
+#EXTINF:-1, Radio Stephansdom
+http://shoutcast.byfly.by:88/stephansdom
+
+#EXTINF:-1, Stereocitta
+http://shoutcast.byfly.by:88/stereocitta
+
+#EXTINF:-1, Стильное радио
+http://shoutcast.byfly.by:88/stilnoeradio
+
+#EXTINF:-1, Столица FM
+http://shoutcast.byfly.by:88/stolica
+
+#EXTINF:-1, Рады Стал&#1110;ца
+http://shoutcast.byfly.by:88/stolitsa
+
+#EXTINF:-1, Страна FM
+http://shoutcast.byfly.by:88/stranafm
+
+#EXTINF:-1, Солнечное Радио
+http://shoutcast.byfly.by:88/sun
+
+#EXTINF:-1, Радио Свобода RUS
+http://shoutcast.byfly.by:88/svoboda_rus
+
+#EXTINF:-1, NERadio Sweden - Best of House & Trance
+http://shoutcast.byfly.by:88/sweden_house
+
+#EXTINF:-1, Radio SWH+
+http://shoutcast.byfly.by:88/swh_plus
+
+#EXTINF:-1, Swiss Internet Radio - Classical
+http://shoutcast.byfly.by:88/swissclassical
+
+#EXTINF:-1, Swiss Internet Radio - Opera
+http://shoutcast.byfly.by:88/swissopera
+
+#EXTINF:-1, Switch 1197
+http://shoutcast.byfly.by:88/switch1197
+
+#EXTINF:-1, Smoothjazztampabay
+http://shoutcast.byfly.by:88/tampabay
+
+#EXTINF:-1, Такси FM
+http://shoutcast.byfly.by:88/taxifm
+
+#EXTINF:-1, TDPradio
+http://shoutcast.byfly.by:88/tdpradio
+
+#EXTINF:-1, Technobase.fm
+http://shoutcast.byfly.by:88/technobase
+
+#EXTINF:-1, TEENTAAL RaDio
+http://shoutcast.byfly.by:88/teentaal
+
+#EXTINF:-1, Teodor radio (Record)
+http://shoutcast.byfly.by:88/teodor
+
+#EXTINF:-1, Т плое Радио
+http://shoutcast.byfly.by:88/teploe
+
+#EXTINF:-1, Test
+http://shoutcast.byfly.by:88/test
+
+#EXTINF:-1, Test 1
+http://shoutcast.byfly.by:88/test1
+
+#EXTINF:-1, Test 2
+http://shoutcast.byfly.by:88/test2
+
+#EXTINF:-1, Test 3
+http://shoutcast.byfly.by:88/test3
+
+#EXTINF:-1, THE BLAST
+http://shoutcast.byfly.by:88/theblast
+
+#EXTINF:-1, Todoexitos
+http://shoutcast.byfly.by:88/todoromantico
+
+#EXTINF:-1, TOK FM
+http://shoutcast.byfly.by:88/tok
+
+#EXTINF:-1, top 100 station
+http://shoutcast.byfly.by:88/top100
+
+#EXTINF:-1, Top 100 RAP
+http://shoutcast.byfly.by:88/top100rap
+
+#EXTINF:-1, 1Mix Radio
+http://shoutcast.byfly.by:88/trancefm
+
+#EXTINF:-1, Trancemission (Record)
+http://shoutcast.byfly.by:88/trancemission
+
+#EXTINF:-1, Trop Beautiful
+http://shoutcast.byfly.by:88/tropbeautiful
+
+#EXTINF:-1, Ultra
+http://shoutcast.byfly.by:88/ultra
+
+#EXTINF:-1, Ultra (320 kbps)
+http://shoutcast.byfly.by:88/ultra320
+
+#EXTINF:-1, Радио Unistar
+http://shoutcast.byfly.by:88/unistar
+
+#EXTINF:-1, Радио Unistar HQ
+http://shoutcast.byfly.by:88/unistar_hq
+
+#EXTINF:-1, UNISTAR Top Channel
+http://shoutcast.byfly.by:88/unistar_top
+
+#EXTINF:-1, Urban Hit
+http://shoutcast.byfly.by:88/urbanhit
+
+#EXTINF:-1, Ваня FM
+http://shoutcast.byfly.by:88/vanya
+
+#EXTINF:-1, Ваня FM (192 kbps)
+http://shoutcast.byfly.by:88/vanya192
+
+#EXTINF:-1, Venus Radio 91.1 FM
+http://shoutcast.byfly.by:88/venus
+
+#EXTINF:-1, Радио Вера
+http://shoutcast.byfly.by:88/vera
+
+#EXTINF:-1, Вести FM
+http://shoutcast.byfly.by:88/vesti
+
+#EXTINF:-1, Радио Вести
+http://shoutcast.byfly.by:88/vesti_ua
+
+#EXTINF:-1, Vintage FM
+http://shoutcast.byfly.by:88/vintagefm
+
+#EXTINF:-1, Радио Витебск
+http://shoutcast.byfly.by:88/vitebsk
+
+#EXTINF:-1, Восток FM
+http://shoutcast.byfly.by:88/vostokfm
+
+#EXTINF:-1, Wargaming.FM
+http://shoutcast.byfly.by:88/wargamingfm
+
+#EXTINF:-1, Radio WAWA
+http://shoutcast.byfly.by:88/wawa
+
+#EXTINF:-1, Radio Wazee
+http://shoutcast.byfly.by:88/wazee
+
+#EXTINF:-1, 90.5 FM WBER
+http://shoutcast.byfly.by:88/wber
+
+#EXTINF:-1, Wild FM Hitradio
+http://shoutcast.byfly.by:88/wildfm
+
+#EXTINF:-1, 89.7 WITR
+http://shoutcast.byfly.by:88/witr
+
+#EXTINF:-1, WKSK 105.5
+http://shoutcast.byfly.by:88/wksk
+
+#EXTINF:-1, WMSE
+http://shoutcast.byfly.by:88/wmse
+
+#EXTINF:-1, Yo! FM
+http://shoutcast.byfly.by:88/yofm
+
+#EXTINF:-1, Music of Your Life
+http://shoutcast.byfly.by:88/yourlife
+
+#EXTINF:-1, Z100 Internet
+http://shoutcast.byfly.by:88/z100internet
+
+#EXTINF:-1, zaycev.fm
+http://shoutcast.byfly.by:88/zaycev
+
+#EXTINF:-1, zaycev.fm alternative
+http://shoutcast.byfly.by:88/zaycev_alternative
+
+#EXTINF:-1, Радио Зенит
+http://shoutcast.byfly.by:88/zenit
+
+#EXTINF:-1, Znad Wilii
+http://shoutcast.byfly.by:88/znadwilii
+
+#EXTINF:-1, Радио Звезда
+http://shoutcast.byfly.by:88/zvezda
