@@ -13,13 +13,17 @@ if __name__ == '__main__':
 
     current_num = 0
     print 'Preparing %d tracks of category "%s"' % (args.total_num, args.category)
+    print 'Saving to %s' % files.get_local_path('__<CATEGORY>', '<TRACK>')
 
-    for track in yandex.get_tracks_iterator(args.category, args.total_num, args.sid):
-        current_num += 1
-        print 'Found track %d/%d (%s)' % (current_num, args.total_num, files.get_file_name(track))
-        local_path = files.get_local_path(args.category, track)
+    try:
+        for track in yandex.get_tracks_iterator(args.category, args.total_num, args.sid):
+            current_num += 1
+            print 'Found track %d/%d (%s)' % (current_num, args.total_num, files.get_file_name(track))
+            local_path = files.get_local_path(args.category, track)
 
-        if not files.exists_local(local_path):
-            print 'Downloading track...'
-            url = yandex.get_mp3_url(track['id'])
-            files.download_track(url, local_path)
+            if not files.exists_local(local_path):
+                print 'Downloading track...'
+                url = yandex.get_mp3_url(track['id'])
+                files.download_track(url, local_path)
+    except KeyboardInterrupt:
+        print 'Terminating...'

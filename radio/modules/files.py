@@ -6,11 +6,18 @@ import requests
 
 
 def get_file_name(track):
+    if not isinstance(track, dict):
+        return ''
+
     return '%s - %s.mp3' % (track['artists'][0]['name'].encode('utf-8'), track['title'].encode('utf-8'))
 
 
 def get_local_path(category, track):
-    return os.path.abspath('downloads/%s/%s' % (category, get_file_name(track)))
+    category_alias = category.split('__', 1)[1]
+    return os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        'downloads/%s/%s' % (category_alias, get_file_name(track))
+    )
 
 
 def exists_local(check_file):
